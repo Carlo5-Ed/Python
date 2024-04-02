@@ -1,0 +1,18 @@
+print("\033[30mHello World!")
+print("\033[31mHello World!")
+print("\033[32mHello World!")
+print("\033[33mHello World!")
+print("\033[34mHello World!")
+print("\033[35mHello World!")
+print("\033[36mHello World!")
+print("\033[37mHello World!")
+#text de 30 a 37
+print("\033[40mHello World!\033[m")
+print("\033[41mHello World!\033[m")
+print("\033[42mHello World!\033[m")
+print("\033[43mHello World!\033[m")
+print("\033[44mHello World!\033[m")
+print("\033[45mHello World!\033[m")
+print("\033[46mHello World!\033[m")
+print("\033[47mHello World!\033[m")
+#back-groud de 40 a 47    
